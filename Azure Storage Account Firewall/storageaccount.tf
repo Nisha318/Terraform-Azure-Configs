@@ -8,9 +8,9 @@ resource "azurerm_storage_account" "vmstore281" {
 
   network_rules {
     default_action             = "Deny"
-    ip_rules                   = ["2.51.173.209"]
+    ip_rules                   = ["108.196.141.160"]
     virtual_network_subnet_ids = [azurerm_subnet.subnetA.id]
-  }
+    }
 
     depends_on = [
     azurerm_resource_group.appgrp,
