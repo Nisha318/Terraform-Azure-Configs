@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisha</h1>
-<h3 align="center">A passionate Network Engineer from the US</h3>
+<h3 align="center">A passionate Network Engineer from the United States</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
