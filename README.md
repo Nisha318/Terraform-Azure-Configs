@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nisha</h1>
-<h3 align="center">A passionate Network Engineer from the United States</h3>
+<h3 align="center">A passionate Network Engineer from the US</h3>
+
+- 🌱 I’m currently learning **Python for automation**
+
+- 📝 I regularly write articles on cloud [https://medium.com/@eunishap](https://medium.com/@eunishap)
+
+- 📫 How to reach me **eunishap@gmail.com**
+
+- 📄 Know about my experiences [https://www.nishacloud.com/](https://www.nishacloud.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -7,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nishaprudhomme/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishaprudhomme/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishaprudhomme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishaprudhomme" height="30" width="40" /></a>
 <a href="https://medium.com/@eunishap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eunishap" height="30" width="40" /></a>
 </p>
 
