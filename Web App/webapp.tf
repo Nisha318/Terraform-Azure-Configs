@@ -1,15 +1,3 @@
-/*
-
-The following links provide the documentation for the new blocks used
-in this terraform configuration file
-
-1. azurerm_service_plan - https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/service_plan
-
-2. azurerm_windows_web_app - https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/windows_web_app
-
-*/
-
-
 resource "azurerm_service_plan" "companyplan" {
   name                = "companyplan"
   resource_group_name = local.resource_group_name
