@@ -1,6 +1,9 @@
 Pre-req: A Web App Deployed in Azure
 
-1. Upgrade to a Standard Tier App Service Plan 
-2. Create and Manage Deployment SLots
+<li> Upgrade to a Standard Tier App Service Plan </li>
+<li> Create and Manage Deployment SLots </li>
 
-https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/windows_web_app_slot
+1. azurerm_windows_web_app_slot - https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/windows_web_app_slot
+
+2. azurerm_web_app_active_slot - https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/web_app_active_slot
+
