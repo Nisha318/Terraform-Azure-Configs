@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-cb311d4f13a6.js"></script>
   
 
-  <title>Terraform-Azure-Configs/README.md at main · Nisha318/Terraform-Azure-Configs</title>
+  <title>Terraform-Azure-Configs/storageaccount.tf at main · Nisha318/Terraform-Azure-Configs</title>
 
 
 
     
 
-  <meta name="request-id" content="DF90:87A9:1FCD01F:2CE840A:63E997D5" data-turbo-transient="true" /><meta name="html-safe-nonce" content="3054e5ca5135bdbe56a4fc456bb502892ba574e7aa45482fb4c7c2c3dd9122b7" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9OaXNoYTMxOC9UZXJyYWZvcm0tQXp1cmUtQ29uZmlncy90cmVlL21haW4vUmFuZG9tJTIwTnVtYmVyJTIwR2VuZXJhdG9yLiIsInJlcXVlc3RfaWQiOiJERjkwOjg3QTk6MUZDRDAxRjoyQ0U4NDBBOjYzRTk5N0Q1IiwidmlzaXRvcl9pZCI6IjgzNTY2MTA0OTEwMDczMTM1MjMiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="e1c07515eb2a6516e276337487740ba3078f4af5d91b8516af066acd6a1d207d" data-turbo-transient="true" />
+  <meta name="request-id" content="DF90:87A9:1FCEE6C:2CEAF54:63E9980D" data-turbo-transient="true" /><meta name="html-safe-nonce" content="3054e5ca5135bdbe56a4fc456bb502892ba574e7aa45482fb4c7c2c3dd9122b7" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9OaXNoYTMxOC9UZXJyYWZvcm0tQXp1cmUtQ29uZmlncy90cmVlL21haW4vUmFuZG9tJTIwTnVtYmVyJTIwR2VuZXJhdG9yLiIsInJlcXVlc3RfaWQiOiJERjkwOjg3QTk6MUZDRUU2QzoyQ0VBRjU0OjYzRTk5ODBEIiwidmlzaXRvcl9pZCI6IjgzNTY2MTA0OTEwMDczMTM1MjMiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="aa88d7679e0b40bfadc1f4158a3de175eff00e2f57abbe85493979fc22d2087c" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:579744885" data-turbo-transient>
@@ -112,11 +112,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9646fda1fae15a5ebc224e8e88dad1d1f364b2f31d10025546035c3f79d9f6d1/Nisha318/Terraform-Azure-Configs" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Terraform-Azure-Configs/README.md at main · Nisha318/Terraform-Azure-Configs" /><meta name="twitter:description" content="Terraform Configuration Files for Azure. Contribute to Nisha318/Terraform-Azure-Configs development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/9646fda1fae15a5ebc224e8e88dad1d1f364b2f31d10025546035c3f79d9f6d1/Nisha318/Terraform-Azure-Configs" /><meta property="og:image:alt" content="Terraform Configuration Files for Azure. Contribute to Nisha318/Terraform-Azure-Configs development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Terraform-Azure-Configs/README.md at main · Nisha318/Terraform-Azure-Configs" /><meta property="og:url" content="https://github.com/Nisha318/Terraform-Azure-Configs" /><meta property="og:description" content="Terraform Configuration Files for Azure. Contribute to Nisha318/Terraform-Azure-Configs development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9646fda1fae15a5ebc224e8e88dad1d1f364b2f31d10025546035c3f79d9f6d1/Nisha318/Terraform-Azure-Configs" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Terraform-Azure-Configs/storageaccount.tf at main · Nisha318/Terraform-Azure-Configs" /><meta name="twitter:description" content="Terraform Configuration Files for Azure. Contribute to Nisha318/Terraform-Azure-Configs development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/9646fda1fae15a5ebc224e8e88dad1d1f364b2f31d10025546035c3f79d9f6d1/Nisha318/Terraform-Azure-Configs" /><meta property="og:image:alt" content="Terraform Configuration Files for Azure. Contribute to Nisha318/Terraform-Azure-Configs development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Terraform-Azure-Configs/storageaccount.tf at main · Nisha318/Terraform-Azure-Configs" /><meta property="og:url" content="https://github.com/Nisha318/Terraform-Azure-Configs" /><meta property="og:description" content="Terraform Configuration Files for Azure. Contribute to Nisha318/Terraform-Azure-Configs development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/12909665/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjkwOTY2NSwicyI6OTY5MzUwMjI0LCJjIjoyMDg0MjQ4MjQ2LCJ0IjoxNjc2MjUzMTc3fQ==--56137e7382c20acb6346309ad524abb2af154e2a4d9a134255d94df2df4d43d2" data-refresh-url="/_alive" data-session-id="d1126b6fd25abd8ffb572299ad1139ab355c1ef3353c570df465ebe2b4ce3979">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/12909665/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjkwOTY2NSwicyI6OTY5MzUwMjI0LCJjIjo1NTk2MDY4MTUsInQiOjE2NzYyNTMyMDR9--a6257330d31e5280bb6919b8aef6b9fd250e07525cb1372658746a019d523cc3" data-refresh-url="/_alive" data-session-id="d1126b6fd25abd8ffb572299ad1139ab355c1ef3353c570df465ebe2b4ce3979">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -146,7 +146,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -239,7 +239,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="R3QdmBmVkHCaK8N6FGCrWbHjr__PRNR7T4D8MswVrromty3QuFhfwJwcxms609g6Vpn43XnTyj1cXLXQSUTkOQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="k-JcAQje5mRPAuP9B5zutmwR7lhTE1ziNvGdVxVJYefyIWxJqRMp1Ek15uwpL53Vi2u5euWEQqQlLdS1kBgrZA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -438,7 +438,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Nisha318&quot;,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="e8963a8ce245bd986c11803323f3687197a8fda6d098470dbc29952c469ed30d" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Nisha318&quot;,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="ec80e3f5dfe8764017f47bcaf31c8e1f978fc9f10c7afbec80732c5ee609c175" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -446,7 +446,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/12909665?s=40&amp;v=4" width="20" height="20" alt="@Nisha318" />
       Nisha318
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EVyvrDEHio7Od5weq2BtMVmVH8UhfrM3a2rzNDBlr2mK79VJSneNnTSfDHpDg9jjHfv1nOmQb0xv5sB4o7BL5g" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mm9LqkkeCfHQKa5r5gUOqDRPLp9txqzLImjRotB5iP0B3DFPMm4O4irBPg8O5rt6cCHExqUocLAm5OLuQ6xscg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -481,7 +481,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI5MDk2NjUiLCJ0IjoxNjc2MjUzMTc3fQ==--7fb222ec4507ca2e7df321e06cf67a71ec310eee52b25bba9b5da860a37211f6" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI5MDk2NjUiLCJ0IjoxNjc2MjUzMjA0fQ==--cae050fdd8f0a632d928cf2b7ea338afac0d65531e97d6efc94fdd045cacc06a" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -639,7 +639,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md
+      return-to=/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf
       user-id="12909665"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -796,7 +796,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-d3028ad2-de56-446b-a450-0b759fe079ab" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-5147f98c-07f3-4a97-80fb-000938ffb2c0" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1595,7 +1595,7 @@
 
       <li>
   <div class="float-left" >
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_4CXuJffvBqA9JK1EVAFimN1SBxvwZJ4HHqc8Axoppxf6jiVOEXkzh3dRBwMgz0h_lQHZZt7yhQK2_YcASCAHw" autocomplete="off" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tjn516hb1PDmOv3koFMeHcCnCJOIhmNBTt4C-9xCYMcWU1b6B8GMJHsTK029gCa2XYZH6nw8Oy1Yf2gX0QpGRA" autocomplete="off" />
         <button title="Pin this repository to your profile" type="submit" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
     <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
 </svg>Pin
@@ -1614,7 +1614,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="a45396f02ffafa514661b58a4c86bc77585d6cdda2bcddd39c639751ef5f0053" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="7a13aa19116ad4bb7dc32ae771d210d32435c14cd66c9c330d3346ec1cc72f18" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               
               
@@ -1666,7 +1666,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="G6vCCF_nDVW6iHd_tZxTU1f36v2THMiyVpKLb8z9dsbWoqTRokiW4c1w6WODYBhM9bdMQ-iNOqHNf2uIlPCLmQ" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VraTMf1I3CUrOpQBBtpHC3E6AjXgIebqw-tiWAV7b4abv_XoAOdHkVzCCh0wJgwU03qki5uwFPlYBoK_XXaS2Q" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="579744885">
 
@@ -1794,7 +1794,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UwlLIo2rUWrjMP3CxO7-HpISdCqCQGrOFcHY36th8MieAC37cATK3pTIY97yErUBMFLSlPnRmN2OLDg482wNlw" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aag_DpWE09CA1NvU09wQVPRsx_ZOaYOeVjUtoq_lkD-koVnXaCtIZPcsRcjlIFtLVixhSDX4cY3N2M1F9-htYA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="579744885">
 
@@ -1946,11 +1946,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/Nisha318/Terraform-Azure-Configs/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="063f66f3b8bd0ffbef08b0efa745152bf2c3c5fc90b6fb23327d2ebb23faec12" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/Nisha318/Terraform-Azure-Configs/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="2d24948108802e5126d51f1a3c9bf9b49c2ee91affbdf0d562b38375fc898151" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</a>    <tool-tip id="tooltip-889bad1b-77a9-4d45-8696-cea4d0c3d9e7" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of Nisha318/Terraform-Azure-Configs</tool-tip>
+</a>    <tool-tip id="tooltip-2e606658-c558-47d0-9fab-408fd853438d" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of Nisha318/Terraform-Azure-Configs</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-579744885" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1965,13 +1965,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2359fa">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3d01a0">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-2359fa"
+        id="filter-menu-3d01a0"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2013,10 +2013,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Hp2qix7ncLhKWVMwOP4U_RSm-Eao9KkHtFVuLLYA9LcUDvyhMS1ktm_8bt8y66P2oNOlc0vZJEvyl7GqoOqF_A" autocomplete="off" />
-          <input type="hidden" value="tLUMv5hKkRjB0N3ANQBbILdgtFURcW6ZNXeNE0Z_V62-JlqVt4CFFuR14C8_FewrAxXpYPJc49VztVKVUJUm5g" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jEVS_qyXYtgEInnwEg8Vkxhb8J8OOJCYFY5jh41dd8mG1gTUg1121iGHRB8YGqKYrC6tqu0VHdRTTLwBm7cGgg" autocomplete="off" />
+          <input type="hidden" value="dkO089sy7x7DLxLNAXZM-TBDa2Rgp9W7rpA-tmEuRg580OLZ9Pj7EOaKLyILY_vyhDY2UYOKWPfoUuEwd8Q3RQ" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="a6aee0fa13131337bdc0a417aa1f53ce829ce399e7108914f5c45f45c4b75c23" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="06898cd2009a5d4e4a867b59cdc457980188f4499979e178ee036afb5eb033c9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2034,13 +2034,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2ffc04">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-c066fd">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-2ffc04"
+        id="filter-menu-c066fd"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2061,9 +2061,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="P9HZ03dW_lMS0GvXWv8-NBt8dfBmk1wjhw8tr3SRlrrqd6WpG_7zAY3XYElLBnGT1pVjzwLEj1Xw0IjvFXKZ7Q" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zIC2Dpx8NOofV0DRIPZWB25tLP2FyjBbY4y_GZb-W7UZJsp08NQ5uIBQS08xDxmgo4Q6wuGd4y0UUxpZ9x1U4g" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="7bff2272e5791bf1ef2a128a8509bdbbdae96d90968faf2a128e9d054db17897" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="231cd19607d545c9cb1d0b2026f7de6089047b6b5759f50730c00006d4a622bd" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2081,13 +2081,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2ffc04">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-c066fd">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-2ffc04"
+        id="filter-menu-c066fd"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2306,7 +2306,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Nisha318/Terraform-Azure-Configs/blob/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Nisha318/Terraform-Azure-Configs/blob/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./storageaccount.tf">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2314,7 +2314,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="de3ca5a1bb4aab8df65d6cc5a315e10d1a109236f945e3e33694d45c008d5674">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="8e63ce8eddcede577346153da7f782a7c99aef722551d1f168ea1d128d15869c">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2382,10 +2382,10 @@
     <create-repo-from-selector
       check-tag-name-exists-path="/Nisha318/Terraform-Azure-Configs/branches/check_tag_name_exists"
     >
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vBHZqxky3tewA6lQ7nKMdISoGki-QKFrAaWpbwx8UUm3iCUspZx6BAm8ueo5hohigZPsTuHCpMz2zTYtS5Rkvg" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="skFGLJR-vewpMbIHQj5Q13Lj264voxBcuTSDuAuYmny52LqrKNAZP5COor2VylTBd9gtqHAhFftOXBz6THCviw" />
         <input data-target="create-repo-from-selector.refName" type="hidden" name="name" value="{{ refName }}">
         <input type="hidden" name="branch"  value="main">
-        <input type="hidden" name="path_binary" value="UmFuZG9tIE51bWJlciBHZW5lcmF0b3IuL1JFQURNRS5tZA==">
+        <input type="hidden" name="path_binary" value="UmFuZG9tIE51bWJlciBHZW5lcmF0b3IuL3N0b3JhZ2VhY2NvdW50LnRm">
 
         <button
           class="SelectMenu-item wb-break-word"
@@ -2393,14 +2393,14 @@
           role="menuitem"
           data-index="{{ index }}"
           data-action="click:create-repo-from-selector#createBranch"
-          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:579744885,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="7552cd8d7807aa42ab78eaa458d6d2cfddb28e7b2a046f4792a41be6d73ea43c">
+          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:579744885,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="de9c008d21df64e6deeb17ae51d96c2b1ee6035be84714d14b77b8f7d61c28f8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
           <div>
             <span class="text-bold">Create branch: {{ refName }}</span>
             <span class="color-fg-muted">from ‘main’</span>
-            <input type="hidden" value="J974MhdDG_lDtNbXuljWGoekW43_qs9oqTNf0XoO0ygJSwkQs9EN3Cjh2J1t82_c3Ky5TV73N8e0V0cqwWHwNA" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
+            <input type="hidden" value="WTHilcjA-LUYLtgIdr3EThsC4zqfmJMljF33Z4o57Vt3pBO3bFLukHN71kKhFn2IQAoB-j7Fa4qROe-cMVbORw" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
           </div>
         </button>
 </form>    </create-repo-from-selector>
@@ -2419,7 +2419,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Nisha318/Terraform-Azure-Configs/blob/{{ urlEncodedRefName }}/Random%20Number%20Generator./README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Nisha318/Terraform-Azure-Configs/blob/{{ urlEncodedRefName }}/Random%20Number%20Generator./storageaccount.tf" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2461,7 +2461,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Nisha318/Terraform-Azure-Configs/blob/{{ urlEncodedRefName }}/Random%20Number%20Generator./README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Nisha318/Terraform-Azure-Configs/blob/{{ urlEncodedRefName }}/Random%20Number%20Generator./storageaccount.tf" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2522,7 +2522,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Nisha318/Terraform-Azure-Configs"><span>Terraform-Azure-Configs</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Nisha318/Terraform-Azure-Configs/tree/main/Random%20Number%20Generator."><span>Random Number Generator.</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Nisha318/Terraform-Azure-Configs"><span>Terraform-Azure-Configs</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Nisha318/Terraform-Azure-Configs/tree/main/Random%20Number%20Generator."><span>Random Number Generator.</span></a></span><span class="separator">/</span><strong class="final-path">storageaccount.tf</strong>
   </h2>
     <a href="/Nisha318/Terraform-Azure-Configs/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2533,7 +2533,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="c484f8a03bbdceeea5adebe1a07e91b18834d32714d42777588b72a2b6034a12" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Nisha318/Terraform-Azure-Configs/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="f6c1af3a755bec9f04dcb9930df5d35d31ec8f037b6b231f722b49a894545e88" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Nisha318/Terraform-Azure-Configs/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2545,13 +2545,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Random Number Generator./README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Random Number Generator./storageaccount.tf" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Nisha318/Terraform-Azure-Configs/blob/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Nisha318/Terraform-Azure-Configs/blob/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./storageaccount.tf" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2583,80 +2583,17 @@
     <include-fragment src="/Nisha318/Terraform-Azure-Configs/spoofed_commit_check/bb444009176b7c78169a34882b6f31045372565f" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/Nisha318/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Nisha318"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/12909665?s=48&amp;v=4" width="24" height="24" alt="@Nisha318" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Nisha318/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Nisha318">Nisha318</a>
+  <include-fragment src="/Nisha318/Terraform-Azure-Configs/contributors/main/Random%20Number%20Generator./storageaccount.tf" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Add files via upload" class="Link--secondary" href="/Nisha318/Terraform-Azure-Configs/commit/f7f81e3fd76e3a9869c87347d8b0d895fadc3f1f">Add files via upload</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/Nisha318/Terraform-Azure-Configs/commit/f7f81e3fd76e3a9869c87347d8b0d895fadc3f1f/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/Nisha318/Terraform-Azure-Configs/commit/f7f81e3fd76e3a9869c87347d8b0d895fadc3f1f" data-pjax>f7f81e3</a>
-            <span itemprop="dateModified"><relative-time datetime="2023-01-01T19:46:23Z" class="no-wrap">Jan 1, 2023</relative-time></span>
-          </span>
-
-          <a data-pjax href="/Nisha318/Terraform-Azure-Configs/commits/main/Random%20Number%20Generator./README.md" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/Nisha318/Terraform-Azure-Configs/contributors-list/main/Random%20Number%20Generator./README.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2680,31 +2617,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      0 lines (0 sloc)
+      13 lines (12 sloc)
       <span class="file-info-divider"></span>
-    0 Bytes
+    463 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md?plain=1" data-permalink-href="/Nisha318/Terraform-Azure-Configs/blob/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md" data-permalink-href="/Nisha318/Terraform-Azure-Configs/blob/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/Nisha318/Terraform-Azure-Configs/raw/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./README.md" href="/Nisha318/Terraform-Azure-Configs/raw/main/Random%20Number%20Generator./README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/Nisha318/Terraform-Azure-Configs/blame/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./README.md" href="/Nisha318/Terraform-Azure-Configs/blame/main/Random%20Number%20Generator./README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/Nisha318/Terraform-Azure-Configs/raw/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./storageaccount.tf" href="/Nisha318/Terraform-Azure-Configs/raw/main/Random%20Number%20Generator./storageaccount.tf" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/Nisha318/Terraform-Azure-Configs/blame/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./storageaccount.tf" href="/Nisha318/Terraform-Azure-Configs/blame/main/Random%20Number%20Generator./storageaccount.tf" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/edit/main/Random%20Number%20Generator./README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PO9HwTy78NJn2Pl8HbwU7PHuUWrrnLTfjwGPq2x0YYSTVDT2Kd7yekHTKmUHhFQbKDLhuGZ_9mG6RG3bhuOKOQ" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/edit/main/Random%20Number%20Generator./storageaccount.tf" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="htBL5cbhnoeXRxXSn6CVeqPF51xK_JV5zoOc60baI345VsByGU__FvkFBtQ0TS9QXmOi5_8cDagbTt-zVWBHEA" autocomplete="off" />
       <button title="Edit this file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2714,7 +2643,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/edit/main/Random%20Number%20Generator./README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J4BnneCkHrA-3SWxte1trv2F0gUc5APstt7buGvjJX-IOxSq9cEcGBjW9qiv1S1ZJFli15EHQVKDmznIgXTOwg" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/edit/main/Random%20Number%20Generator./storageaccount.tf" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4cJP1QFgBgYmVpuRV2yOv5jXprzPjARq_DLPDUU5prVeRMRC3s5nl0gUiJf8gTSVZXHjB3psnLsp_4xVVoPC2w" autocomplete="off" />
               <button title="Edit this file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2722,7 +2651,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/Nisha318/Terraform-Azure-Configs?branch=main&amp;filepath=Random%20Number%20Generator.%2FREADME.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/Nisha318/Terraform-Azure-Configs?branch=main&amp;filepath=Random%20Number%20Generator.%2Fstorageaccount.tf" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2733,10 +2662,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Nisha318/Terraform-Azure-Configs/raw/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Nisha318/Terraform-Azure-Configs/raw/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./storageaccount.tf" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="fef8e692bd312584b4857d9f1b8c0971d287bd952fd11e4bff01080667036d48" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="8fe9b65a53ffee8c8721c134193ae11ab99e7c4080dc0b3972c19998d9df7ae4" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2761,7 +2690,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/delete/main/Random%20Number%20Generator./README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JCmr5nrMIIhXmj3JApyq1PF4AsakG89oIzcA_SOBre6LxCAXAhL7E5bhevFFnPK0SrvW9Ph2EpiLoX8kbw6JcA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Nisha318/Terraform-Azure-Configs/delete/main/Random%20Number%20Generator./storageaccount.tf" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ueFfcJqm6OjH70zU8EV_sVdS48yB8jX43dcL6HD6gqaakhFTPXfpiTtfN0S2yIDNVPvFXDBmNmUQnawcb4g3lQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2789,20 +2718,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/Nisha318/Terraform-Azure-Configs?branch=main&amp;filepath=Random%20Number%20Generator.%2FREADME.md">
+                   href="x-github-client://openRepo/https://github.com/Nisha318/Terraform-Azure-Configs?branch=main&amp;filepath=Random%20Number%20Generator.%2Fstorageaccount.tf">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Nisha318/Terraform-Azure-Configs/raw/main/Random%20Number%20Generator./README.md">
+            <a class="dropdown-item" href="/Nisha318/Terraform-Azure-Configs/raw/main/Random%20Number%20Generator./storageaccount.tf">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Nisha318/Terraform-Azure-Configs/raw/main/Random%20Number%20Generator./README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Nisha318/Terraform-Azure-Configs/raw/main/Random%20Number%20Generator./storageaccount.tf" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./README.md&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="fef8e692bd312584b4857d9f1b8c0971d287bd952fd11e4bff01080667036d48">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:579744885,&quot;originating_url&quot;:&quot;https://github.com/Nisha318/Terraform-Azure-Configs/blob/main/Random%20Number%20Generator./storageaccount.tf&quot;,&quot;user_id&quot;:12909665}}" data-hydro-click-hmac="8fe9b65a53ffee8c8721c134193ae11ab99e7c4080dc0b3972c19998d9df7ae4">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2825,20 +2754,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Nisha318/Terraform-Azure-Configs/blame/main/Random%20Number%20Generator./README.md">
+              <a class="dropdown-item" href="/Nisha318/Terraform-Azure-Configs/blame/main/Random%20Number%20Generator./storageaccount.tf">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Nisha318/Terraform-Azure-Configs/edit/main/Random%20Number%20Generator./README.md">Edit file</a>
+                <a class="dropdown-item" href="/Nisha318/Terraform-Azure-Configs/edit/main/Random%20Number%20Generator./storageaccount.tf">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:579744885,&quot;actor_id&quot;:12909665,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Nisha318/Terraform-Azure-Configs/delete/main/Random%20Number%20Generator./README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Nisha318/Terraform-Azure-Configs/delete/main/Random%20Number%20Generator./storageaccount.tf">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2847,7 +2776,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-hcl  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2875,7 +2804,60 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="" data-tagsearch-path="Random Number Generator./README.md">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HCL" data-tagsearch-path="Random Number Generator./storageaccount.tf">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_storage_account<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>storageaccountresource<span class="pl-pds">&quot;</span></span> {</td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">  name<span class="pl-k">=</span><span class="pl-c1">join</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>,[<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-k">${</span><span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">storage_account_name</span><span class="pl-k">}</span><span class="pl-pds">&quot;</span></span>,<span class="pl-c1">substr</span>(random_uuid<span class="pl-k">.</span><span class="pl-smi">storageaccountidentifier</span><span class="pl-k">.</span><span class="pl-smi">result</span>,<span class="pl-c1">0</span>,<span class="pl-c1">8</span>)])  </td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">  resource_group_name      <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>app-grp<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">  location                 <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>East US<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">  account_tier             <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Standard<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">  account_replication_type <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>LRS<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">  account_kind <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>StorageV2<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">  depends_on <span class="pl-k">=</span> [</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">    azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">appgrp</span>,</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">    random_uuid<span class="pl-k">.</span><span class="pl-smi">storageaccountidentifier</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">  ]</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
   </table>
 </div>
 
@@ -2900,7 +2882,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Nisha318/Terraform-Azure-Configs/blame/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./README.md">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Nisha318/Terraform-Azure-Configs/blame/bb444009176b7c78169a34882b6f31045372565f/Random%20Number%20Generator./storageaccount.tf">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Nisha318/Terraform-Azure-Configs/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
